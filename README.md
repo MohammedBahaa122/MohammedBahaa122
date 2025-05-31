@@ -14,7 +14,3 @@
 </p>
 
 ---
-
-You can copy this and paste it into your `README.md` for your GitHub profile.
-
-هل تحب أساعدك تضيف صور مشاريعك أو إحصائيات GitHub كمان؟
