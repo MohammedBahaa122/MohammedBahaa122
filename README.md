@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Bahaa</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Bahaa</h1>
 
 - 🎓 I'm a computer science student at the Egyptian Chinese University  
 - 💻 I enjoy building software and learning new technologies  
