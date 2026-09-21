@@ -22,5 +22,5 @@
 <h3 align="left">Connect With Me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+  <a href="www.linkedin.com/in/mohamed-bahaa-582074369="_blank">LinkedIn</a>
 </p>
